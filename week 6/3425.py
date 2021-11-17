@@ -1,5 +1,3 @@
-
-
 while True:
     commands = []
     num_operand = []
@@ -69,8 +67,3 @@ while True:
                 stack[-1] %= pnum
 
         print(stack.pop())
-
-
-
-
-
